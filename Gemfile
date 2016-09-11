@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-gem 'RedCloth'
 
-gem 'guard-jekyll'
+gem 'github-pages', group: :jekyll_plugins
